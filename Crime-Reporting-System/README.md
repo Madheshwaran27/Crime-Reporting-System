@@ -3,7 +3,7 @@ The Online crime reporting system which is a Web application designed in PHP  wh
 
 We created a website with 4 functionalities which includes login pages for user, police in charge, station in charge and police headquarters
 
-• User can register and login and a file a complaint using Aadhar card
+• User can register and login and a file a complaint.
 
 • The case was then assigned randomly to a police officer of the nearest police station
 
@@ -13,4 +13,4 @@ We created a website with 4 functionalities which includes login pages for user,
 
 • From headquarter portal we can add police station to different areas and view all the cases
 
-• We also added a google map in our user portal page which detects your current location and shows you the location of nearest police station
+• We also added a criminal database to add iamges of suspect and evidence for the crime
